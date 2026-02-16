@@ -1,3 +1,23 @@
 ﻿URL reference list 
 
 
+
+https://docs.pytorch.org/docs/stable/index.html
+
+
+https://medium.com/@benjybo7/10-pytorch-optimizers-you-must-know-c99cf3390899
+
+
+https://www.geeksforgeeks.org/deep-learning/pytorch-loss-functions/
+
+
+https://stackoverflow.com/questions/59003591/how-to-implement-dropout-in-pytorch-and-where-to-apply-it
+
+
+
+
+
+
+
+
+
