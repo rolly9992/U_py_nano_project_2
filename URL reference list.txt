@@ -39,6 +39,7 @@ https://www.datascienceweekly.org/tutorials/batchnorm2d-how-to-use-the-batchnorm
 
 https://huggingface.co/blog/dcarpintero/building-a-neural-network-for-image-classification
 
+https://www.codegenes.net/blog/pytorch-calculate-mean-and-std-of-dataset/
 
 https://docs.pytorch.org/vision/stable/transforms.html
 
