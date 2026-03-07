@@ -50,5 +50,8 @@ https://www.geeksforgeeks.org/python/how-to-normalize-images-in-pytorch/
 
 https://markaicode.com/image-dataset-normalization-in-pytorch/
 
+https://inside-machinelearning.com/en/why-and-how-to-normalize-data-object-detection-on-image-in-pytorch-part-1/
+
+https://www.geeksforgeeks.org/machine-learning/how-to-choose-batch-size-and-number-of-epochs-when-fitting-a-model/
 
 
